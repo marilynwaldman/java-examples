@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[34mTest run started[0m[0m
+[0m[[0minfo[0m] [0mTest com.example.coding.[33mFibonacciGeneratorTest[0m.[36mtestGenerate1[0m started[0m
+[0m[[0minfo[0m] [0mTest com.example.coding.[33mFibonacciGeneratorTest[0m.[36mtestGenerate2[0m started[0m
+[0m[[0minfo[0m] [0mTest com.example.coding.[33mFibonacciGeneratorTest[0m.[36mtestMyGenerator[0m started[0m
+[0m[[0minfo[0m] [0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 3 total, 0.015s[0m[0m
