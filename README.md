@@ -1,3 +1,5 @@
+These are JAVA example code run off of HackerRank and other sources.  These are run under sbt.
+
 This is a simple lightweight template for getting started creating Scala projects. It was initially forked at github:  https://github.com/dph01/scala-sbt-template and modified for running Scala example code.
 
 
