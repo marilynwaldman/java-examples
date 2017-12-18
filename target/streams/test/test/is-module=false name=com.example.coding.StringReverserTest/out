@@ -1,7 +1,0 @@
-[0m[[0minfo[0m] [0m[34mTest run started[0m[0m
-[0m[[0minfo[0m] [0mTest com.example.coding.[33mStringReverserTest[0m.[36mmyReverse[0m started[0m
-[0m[[0minfo[0m] [0mTest com.example.coding.[33mStringReverserTest[0m.[36mtestReverse1[0m started[0m
-[0m[[0minfo[0m] [0mTest com.example.coding.[33mStringReverserTest[0m.[36mtestReverse2[0m started[0m
-[0m[[0minfo[0m] [0mTest com.example.coding.[33mStringReverserTest[0m.[36mtestReverse3[0m started[0m
-[0m[[0minfo[0m] [0mTest com.example.coding.[33mStringReverserTest[0m.[36mtestReverse4[0m started[0m
-[0m[[0minfo[0m] [0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 5 total, 0.008s[0m[0m
